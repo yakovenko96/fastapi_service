@@ -1,0 +1,14 @@
+alembic
+fastapi[all]
+psycopg2-binary
+asyncpg
+python-dotenv
+sqlalchemy
+sqlalchemy[asyncio]
+uvicorn
+redis
+gunicorn
+celery
+pydantic
+pyjwt
+passlib
